@@ -11,7 +11,7 @@ We highly respect reproducible research, so we try to provide the simulation cod
 
 Training data link: https://pan.baidu.com/s/1C1MGUSSTmswEn7L7sBydMA?pwd=xh62      <br/>
 Test data link: https://pan.baidu.com/s/1GGwwpRhWiIARFzUSvxp1lA?pwd=xh62 <br/>
-Codeword: xh62
+Verification code: xh62
 
 
 You can directly run the “main_CP.py” file to obtain the channel prediction results. Now, this code is a preliminary version composed of a few redundant statements, we will try my best to release the clean codes and add the necessary annotations in the future. 
